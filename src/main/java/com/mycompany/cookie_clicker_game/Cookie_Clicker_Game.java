@@ -13,6 +13,6 @@ import java.io.IOException;
 public class Cookie_Clicker_Game {
 
     public static void main(String[] args) throws IOException {
-       new CookioClicker().setVisible(true);
+        new CookieClicker().setVisible(true);
     }
 }
